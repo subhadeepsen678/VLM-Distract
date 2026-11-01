@@ -1,0 +1,6 @@
+{
+  "name": "VLM-Distract: Autonomous Driving Robustness Benchmark",
+  "description": "Real-time Vision-Language Model robustness and distraction benchmarking suite for pedestrian intent prediction in traffic scenes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
